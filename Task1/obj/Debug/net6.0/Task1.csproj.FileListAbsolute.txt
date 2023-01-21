@@ -1,0 +1,7 @@
+C:\Users\This_user\Desktop\מרים\לימודים\Core\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+C:\Users\This_user\Desktop\מרים\לימודים\Core\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This_user\Desktop\מרים\לימודים\Core\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+C:\Users\This_user\Desktop\מרים\לימודים\Core\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+C:\Users\This_user\Desktop\מרים\לימודים\Core\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\This_user\Desktop\מרים\לימודים\Core\Task1\obj\Debug\net6.0\Task1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\This_user\Desktop\מרים\לימודים\Core\Task1\obj\Debug\net6.0\Task1.MvcApplicationPartsAssemblyInfo.cache
